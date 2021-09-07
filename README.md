@@ -210,3 +210,7 @@ To add a custom directory to your theme-gem, please edit the regexp in `not-pure
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+## 命令
+
+你可以使用 bundle exec jekyll serve 命令，然后就可以通过访问 127.0.0.1:4000 查看初始界面的样子了。

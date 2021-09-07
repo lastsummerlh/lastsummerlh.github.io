@@ -32,14 +32,13 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: 小羽
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: 小羽
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/lastsummerlh
 google_site_verification: xxxxx
 lang: en
 
